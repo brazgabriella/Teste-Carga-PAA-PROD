@@ -1,0 +1,50 @@
+{
+  "https://paa.qualitin.com/index.aspx" : {
+    "transaction" : "https://paa.qualitin.com/index.aspx",
+    "sampleCount" : 50,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 121.49999999999997,
+    "medianResTime" : 91.0,
+    "minResTime" : 84.0,
+    "maxResTime" : 599.0,
+    "pct1ResTime" : 167.7,
+    "pct2ResTime" : 372.99999999999915,
+    "pct3ResTime" : 599.0,
+    "throughput" : 5.100999795960008,
+    "receivedKBytesPerSec" : 14.789910541216079,
+    "sentKBytesPerSec" : 2.525592672413793
+  },
+  "Teste Carga 50" : {
+    "transaction" : "Teste Carga 50",
+    "sampleCount" : 50,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 121.49999999999997,
+    "medianResTime" : 91.0,
+    "minResTime" : 84.0,
+    "maxResTime" : 599.0,
+    "pct1ResTime" : 167.7,
+    "pct2ResTime" : 372.99999999999915,
+    "pct3ResTime" : 599.0,
+    "throughput" : 5.061753391374772,
+    "receivedKBytesPerSec" : 14.67611896385908,
+    "sentKBytesPerSec" : 2.5061611029560638
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 50,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 121.49999999999997,
+    "medianResTime" : 91.0,
+    "minResTime" : 84.0,
+    "maxResTime" : 599.0,
+    "pct1ResTime" : 167.7,
+    "pct2ResTime" : 372.99999999999915,
+    "pct3ResTime" : 599.0,
+    "throughput" : 5.100999795960008,
+    "receivedKBytesPerSec" : 14.789910541216079,
+    "sentKBytesPerSec" : 2.525592672413793
+  }
+}
