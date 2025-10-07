@@ -1,0 +1,401 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1759857646752,121,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-2,text,true,,2969,507,3,3,https://paa.qualitin.com/index.aspx,121,0,92
+1759857646751,121,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,2969,507,3,3,null,121,2,92
+1759857646654,229,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-1,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,229,0,193
+1759857646652,229,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,2969,507,2,2,null,229,2,193
+1759857646852,96,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-3,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,96,0,69
+1759857646851,96,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,2969,507,1,1,null,96,2,69
+1759857646952,87,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-4,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,58
+1759857646952,87,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,2969,507,1,1,null,87,1,58
+1759857647051,149,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-5,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,149,0,118
+1759857647051,149,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,2969,507,2,2,null,149,1,118
+1759857647152,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-6,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,58
+1759857647151,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,2969,507,1,1,null,88,2,58
+1759857647253,90,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-7,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,90,0,59
+1759857647252,90,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,,true,,2969,507,1,1,null,90,2,59
+1759857647352,96,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-8,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,96,0,67
+1759857647351,96,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,,true,,2969,507,1,1,null,96,2,67
+1759857647452,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-9,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,57
+1759857647451,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,,true,,2969,507,1,1,null,88,1,57
+1759857647552,98,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-10,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,98,0,67
+1759857647551,98,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,,true,,2969,507,1,1,null,98,2,67
+1759857647652,89,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-11,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,89,0,58
+1759857647651,89,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-11,,true,,2969,507,1,1,null,89,2,58
+1759857647751,97,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-12,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,97,0,64
+1759857647750,97,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-12,,true,,2969,507,1,1,null,97,1,64
+1759857647851,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-13,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,59
+1759857647850,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-13,,true,,2969,507,1,1,null,87,1,59
+1759857647951,98,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-14,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,98,0,65
+1759857647951,98,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-14,,true,,2969,507,1,1,null,98,0,65
+1759857648051,98,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-15,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,98,0,60
+1759857648050,98,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-15,,true,,2969,507,1,1,null,98,2,60
+1759857648153,96,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-16,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,96,0,68
+1759857648152,96,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-16,,true,,2969,507,1,1,null,96,2,68
+1759857648253,96,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-17,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,96,0,69
+1759857648251,96,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-17,,true,,2969,507,1,1,null,96,3,69
+1759857648353,96,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-18,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,96,0,68
+1759857648352,96,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-18,,true,,2969,507,1,1,null,96,2,68
+1759857648451,89,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-19,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,89,0,58
+1759857648451,89,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-19,,true,,2969,507,1,1,null,89,1,58
+1759857648552,87,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-20,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,60
+1759857648551,87,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-20,,true,,2969,507,1,1,null,87,2,60
+1759857648651,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-21,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,59
+1759857648650,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-21,,true,,2969,507,1,1,null,88,2,59
+1759857648751,89,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-22,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,89,0,60
+1759857648751,89,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-22,,true,,2969,507,1,1,null,89,1,60
+1759857648852,87,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-23,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,58
+1759857648851,87,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-23,,true,,2969,507,1,1,null,87,2,58
+1759857648952,87,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-24,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,58
+1759857648952,87,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-24,,true,,2969,507,1,1,null,87,1,58
+1759857649051,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-25,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,59
+1759857649051,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-25,,true,,2969,507,1,1,null,88,1,59
+1759857649151,98,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-26,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,98,0,69
+1759857649150,98,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-26,,true,,2969,507,1,1,null,98,1,69
+1759857649252,96,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-27,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,96,0,68
+1759857649251,96,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-27,,true,,2969,507,1,1,null,96,2,68
+1759857649350,89,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-28,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,89,0,59
+1759857649349,89,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-28,,true,,2969,507,1,1,null,89,1,59
+1759857649450,89,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-29,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,89,0,61
+1759857649450,89,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-29,,true,,2969,507,1,1,null,89,1,61
+1759857649551,87,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-30,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,58
+1759857649551,87,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-30,,true,,2969,507,1,1,null,87,1,58
+1759857649653,85,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-31,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,85,0,59
+1759857649652,85,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-31,,true,,2969,507,1,1,null,85,2,59
+1759857649752,90,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-32,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,90,0,60
+1759857649751,90,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-32,,true,,2969,507,1,1,null,90,2,60
+1759857649852,87,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-33,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,58
+1759857649851,87,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-33,,true,,2969,507,1,1,null,87,1,58
+1759857649951,108,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-34,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,108,0,80
+1759857649950,108,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-34,,true,,2969,507,2,2,null,108,1,80
+1759857650052,98,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-35,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,98,0,68
+1759857650051,98,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-35,,true,,2969,507,2,2,null,98,2,68
+1759857650151,101,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-36,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,101,0,63
+1759857650150,101,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-36,,true,,2969,507,2,2,null,101,2,63
+1759857650253,97,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-37,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,96,0,68
+1759857650251,97,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-37,,true,,2969,507,1,1,null,96,3,68
+1759857650352,93,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-38,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,93,0,58
+1759857650351,93,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-38,,true,,2969,507,1,1,null,93,1,58
+1759857650450,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-39,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,62
+1759857650449,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-39,,true,,2969,507,1,1,null,88,2,62
+1759857650550,148,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-40,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,148,0,62
+1759857650550,148,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-40,,true,,2969,507,2,2,null,148,1,62
+1759857650652,97,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-41,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,96,0,70
+1759857650651,97,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-41,,true,,2969,507,1,1,null,96,1,70
+1759857650750,89,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-42,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,89,0,60
+1759857650750,89,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-42,,true,,2969,507,1,1,null,89,1,60
+1759857650851,87,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-43,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,62
+1759857650851,87,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-43,,true,,2969,507,1,1,null,87,1,62
+1759857650951,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-44,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,59
+1759857650950,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-44,,true,,2969,507,1,1,null,88,1,59
+1759857651053,105,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-45,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,105,0,67
+1759857651052,105,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-45,,true,,2969,507,2,2,null,105,1,67
+1759857651151,107,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-46,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,107,0,79
+1759857651150,107,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-46,,true,,2969,507,2,2,null,107,2,79
+1759857651251,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-47,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,59
+1759857651251,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-47,,true,,2969,507,1,1,null,88,2,59
+1759857651352,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-48,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,59
+1759857651352,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-48,,true,,2969,507,1,1,null,88,0,59
+1759857651452,91,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-49,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,91,0,59
+1759857651451,91,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-49,,true,,2969,507,1,1,null,91,1,59
+1759857651550,100,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-50,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,100,0,63
+1759857651550,100,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-50,,true,,2969,507,2,2,null,100,1,63
+1759857651651,97,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-51,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,97,0,68
+1759857651650,97,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-51,,true,,2969,507,1,1,null,97,2,68
+1759857651751,87,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-52,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,58
+1759857651750,87,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-52,,true,,2969,507,1,1,null,87,2,58
+1759857651850,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-53,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,61
+1759857651849,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-53,,true,,2969,507,1,1,null,88,2,61
+1759857651952,89,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-54,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,89,0,58
+1759857651951,89,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-54,,true,,2969,507,1,1,null,89,2,58
+1759857652051,87,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-55,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,59
+1759857652050,87,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-55,,true,,2969,507,1,1,null,87,2,59
+1759857652150,99,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-56,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,99,0,69
+1759857652150,99,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-56,,true,,2969,507,1,1,null,99,0,69
+1759857652251,118,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-57,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,117,0,88
+1759857652250,118,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-57,,true,,2969,507,2,2,null,117,1,88
+1759857652351,87,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-58,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,58
+1759857652350,87,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-58,,true,,2969,507,1,1,null,87,2,58
+1759857652450,99,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-59,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,99,0,72
+1759857652449,99,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-59,,true,,2969,507,1,1,null,99,1,72
+1759857652550,98,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-60,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,98,0,70
+1759857652549,98,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-60,,true,,2969,507,1,1,null,98,2,70
+1759857652651,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-61,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,58
+1759857652650,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-61,,true,,2969,507,1,1,null,88,2,58
+1759857652750,90,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-62,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,90,0,59
+1759857652750,90,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-62,,true,,2969,507,1,1,null,90,1,59
+1759857652849,89,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-63,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,89,0,62
+1759857652849,89,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-63,,true,,2969,507,1,1,null,89,1,62
+1759857652951,113,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-64,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,113,0,59
+1759857652950,113,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-64,,true,,2969,507,2,2,null,113,1,59
+1759857653050,89,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-65,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,89,0,59
+1759857653050,89,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-65,,true,,2969,507,1,1,null,89,0,59
+1759857653149,105,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-66,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,105,0,64
+1759857653148,105,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-66,,true,,2969,507,2,2,null,105,2,64
+1759857653252,97,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-67,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,97,0,67
+1759857653251,97,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-67,,true,,2969,507,2,2,null,97,3,67
+1759857653351,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-68,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,59
+1759857653350,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-68,,true,,2969,507,1,1,null,88,1,59
+1759857653454,87,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-69,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,56
+1759857653453,87,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-69,,true,,2969,507,1,1,null,87,2,56
+1759857653550,93,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-70,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,93,0,59
+1759857653550,93,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-70,,true,,2969,507,1,1,null,93,1,59
+1759857653650,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-71,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,59
+1759857653650,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-71,,true,,2969,507,1,1,null,88,1,59
+1759857653751,87,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-72,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,60
+1759857653750,87,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-72,,true,,2969,507,1,1,null,87,2,60
+1759857653850,119,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-73,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,118,0,89
+1759857653849,119,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-73,,true,,2969,507,2,2,null,118,1,89
+1759857653950,89,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-74,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,89,0,59
+1759857653950,89,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-74,,true,,2969,507,1,1,null,89,0,59
+1759857654051,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-75,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,59
+1759857654050,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-75,,true,,2969,507,1,1,null,88,2,59
+1759857654151,99,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-76,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,99,0,70
+1759857654150,99,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-76,,true,,2969,507,2,2,null,99,2,70
+1759857654252,86,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-77,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,86,0,58
+1759857654249,86,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-77,,true,,2969,507,1,1,null,86,4,58
+1759857654351,87,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-78,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,59
+1759857654350,87,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-78,,true,,2969,507,1,1,null,87,2,59
+1759857654450,99,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-79,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,99,0,66
+1759857654449,99,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-79,,true,,2969,507,1,1,null,99,2,66
+1759857654551,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-80,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,58
+1759857654551,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-80,,true,,2969,507,1,1,null,88,1,58
+1759857654651,100,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-81,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,100,0,69
+1759857654650,100,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-81,,true,,2969,507,2,2,null,100,1,69
+1759857654750,98,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-82,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,98,0,70
+1759857654749,98,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-82,,true,,2969,507,1,1,null,98,2,70
+1759857654850,102,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-83,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,102,0,64
+1759857654849,102,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-83,,true,,2969,507,2,2,null,102,2,64
+1759857654953,96,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-84,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,96,0,58
+1759857654952,96,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-84,,true,,2969,507,1,1,null,96,2,58
+1759857655053,86,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-85,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,86,0,57
+1759857655052,86,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-85,,true,,2969,507,1,1,null,86,2,57
+1759857655151,89,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-86,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,89,0,59
+1759857655149,89,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-86,,true,,2969,507,1,1,null,89,3,59
+1759857655252,87,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-87,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,57
+1759857655250,87,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-87,,true,,2969,507,1,1,null,87,3,57
+1759857655352,89,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-88,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,58
+1759857655351,89,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-88,,true,,2969,507,1,1,null,88,1,58
+1759857655450,90,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-89,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,90,0,60
+1759857655449,90,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-89,,true,,2969,507,1,1,null,90,2,60
+1759857655551,87,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-90,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,61
+1759857655550,87,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-90,,true,,2969,507,1,1,null,87,1,61
+1759857655651,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-91,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,58
+1759857655650,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-91,,true,,2969,507,1,1,null,88,1,58
+1759857655752,95,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-92,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,95,0,58
+1759857655750,95,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-92,,true,,2969,507,1,1,null,95,2,58
+1759857655850,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-93,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,59
+1759857655849,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-93,,true,,2969,507,1,1,null,88,1,59
+1759857655950,99,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-94,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,99,0,65
+1759857655949,99,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-94,,true,,2969,507,1,1,null,99,2,65
+1759857656052,86,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-95,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,86,0,57
+1759857656051,86,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-95,,true,,2969,507,1,1,null,86,2,57
+1759857656152,108,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-96,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,107,0,73
+1759857656151,108,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-96,,true,,2969,507,2,2,null,107,1,73
+1759857656251,91,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-97,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,91,0,60
+1759857656250,91,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-97,,true,,2969,507,1,1,null,91,1,60
+1759857656350,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-98,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,60
+1759857656349,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-98,,true,,2969,507,1,1,null,88,2,60
+1759857656450,89,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-99,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,89,0,61
+1759857656450,89,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-99,,true,,2969,507,1,1,null,89,0,61
+1759857656552,91,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-100,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,91,0,63
+1759857656551,91,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-100,,true,,2969,507,1,1,null,91,2,63
+1759857656652,98,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-101,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,98,0,64
+1759857656651,98,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-101,,true,,2969,507,2,2,null,98,2,64
+1759857656750,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-102,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,60
+1759857656749,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-102,,true,,2969,507,1,1,null,88,1,60
+1759857656849,100,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-103,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,100,0,63
+1759857656848,100,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-103,,true,,2969,507,1,1,null,100,1,63
+1759857656951,87,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-104,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,58
+1759857656950,87,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-104,,true,,2969,507,1,1,null,87,2,58
+1759857657050,91,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-105,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,91,0,59
+1759857657050,91,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-105,,true,,2969,507,1,1,null,91,1,59
+1759857657149,100,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-106,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,100,0,66
+1759857657149,100,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-106,,true,,2969,507,1,1,null,100,0,66
+1759857657251,96,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-107,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,96,0,58
+1759857657250,96,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-107,,true,,2969,507,1,1,null,96,2,58
+1759857657352,87,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-108,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,86,0,57
+1759857657351,87,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-108,,true,,2969,507,1,1,null,86,1,57
+1759857657450,90,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-109,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,90,0,59
+1759857657450,90,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-109,,true,,2969,507,1,1,null,90,1,59
+1759857657550,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-110,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,61
+1759857657549,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-110,,true,,2969,507,1,1,null,88,2,61
+1759857657651,109,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-111,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,109,0,78
+1759857657650,109,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-111,,true,,2969,507,2,2,null,109,2,78
+1759857657750,129,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-112,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,129,0,80
+1759857657750,129,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-112,,true,,2969,507,2,2,null,129,1,80
+1759857657850,97,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-113,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,97,0,59
+1759857657849,97,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-113,,true,,2969,507,1,1,null,97,1,59
+1759857657950,99,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-114,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,99,0,69
+1759857657949,99,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-114,,true,,2969,507,1,1,null,99,2,69
+1759857658051,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-115,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,59
+1759857658050,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-115,,true,,2969,507,1,1,null,87,1,59
+1759857658150,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-116,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,59
+1759857658149,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-116,,true,,2969,507,1,1,null,88,2,59
+1759857658251,87,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-117,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,59
+1759857658250,87,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-117,,true,,2969,507,1,1,null,87,2,59
+1759857658350,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-118,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,60
+1759857658350,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-118,,true,,2969,507,1,1,null,88,1,60
+1759857658451,100,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-119,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,100,0,69
+1759857658450,100,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-119,,true,,2969,507,2,2,null,100,1,69
+1759857658551,97,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-120,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,97,0,68
+1759857658550,97,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-120,,true,,2969,507,1,1,null,97,1,68
+1759857658651,87,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-121,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,60
+1759857658650,87,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-121,,true,,2969,507,1,1,null,87,2,60
+1759857658751,77,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-122,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,77,0,50
+1759857658750,77,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-122,,true,,2969,507,1,1,null,77,2,50
+1759857658851,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-123,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,59
+1759857658850,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-123,,true,,2969,507,1,1,null,87,1,59
+1759857658951,98,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-124,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,98,0,61
+1759857658951,98,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-124,,true,,2969,507,1,1,null,98,0,61
+1759857659050,90,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-125,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,90,0,59
+1759857659050,90,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-125,,true,,2969,507,1,1,null,90,1,59
+1759857659151,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-126,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,59
+1759857659151,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-126,,true,,2969,507,1,1,null,88,0,59
+1759857659252,86,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-127,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,86,0,57
+1759857659251,86,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-127,,true,,2969,507,1,1,null,86,2,57
+1759857659351,129,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-128,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,129,0,102
+1759857659350,129,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-128,,true,,2969,507,2,2,null,129,1,102
+1759857659451,104,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-129,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,104,0,58
+1759857659450,104,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-129,,true,,2969,507,2,2,null,104,2,58
+1759857659551,111,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-130,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,111,0,79
+1759857659550,111,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-130,,true,,2969,507,2,2,null,111,1,79
+1759857659651,97,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-131,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,97,0,68
+1759857659650,97,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-131,,true,,2969,507,1,1,null,97,2,68
+1759857659751,87,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-132,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,58
+1759857659750,87,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-132,,true,,2969,507,1,1,null,87,2,58
+1759857659851,87,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-133,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,60
+1759857659850,87,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-133,,true,,2969,507,1,1,null,87,2,60
+1759857659951,91,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-134,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,91,0,59
+1759857659950,91,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-134,,true,,2969,507,1,1,null,91,2,59
+1759857660050,92,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-135,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,92,0,62
+1759857660049,92,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-135,,true,,2969,507,1,1,null,92,1,62
+1759857660150,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-136,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,60
+1759857660149,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-136,,true,,2969,507,1,1,null,88,2,60
+1759857660251,89,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-137,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,89,0,58
+1759857660251,89,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-137,,true,,2969,507,1,1,null,89,1,58
+1759857660351,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-138,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,59
+1759857660350,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-138,,true,,2969,507,1,1,null,88,2,59
+1759857660450,89,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-139,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,89,0,59
+1759857660450,89,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-139,,true,,2969,507,1,1,null,89,0,59
+1759857660551,87,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-140,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,58
+1759857660550,87,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-140,,true,,2969,507,1,1,null,87,1,58
+1759857660651,87,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-141,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,58
+1759857660650,87,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-141,,true,,2969,507,1,1,null,87,1,58
+1759857660749,89,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-142,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,89,0,64
+1759857660748,89,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-142,,true,,2969,507,1,1,null,89,2,64
+1759857660850,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-143,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,61
+1759857660849,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-143,,true,,2969,507,1,1,null,88,2,61
+1759857660951,87,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-144,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,58
+1759857660950,87,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-144,,true,,2969,507,1,1,null,87,2,58
+1759857661050,98,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-145,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,98,0,63
+1759857661050,98,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-145,,true,,2969,507,1,1,null,98,1,63
+1759857661150,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-146,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,59
+1759857661150,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-146,,true,,2969,507,1,1,null,88,1,59
+1759857661251,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-147,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,58
+1759857661250,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-147,,true,,2969,507,1,1,null,88,1,58
+1759857661349,89,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-148,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,89,0,60
+1759857661348,89,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-148,,true,,2969,507,1,1,null,89,1,60
+1759857661451,87,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-149,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,61
+1759857661450,87,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-149,,true,,2969,507,1,1,null,87,2,61
+1759857661550,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-150,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,60
+1759857661549,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-150,,true,,2969,507,1,1,null,88,2,60
+1759857661651,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-151,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,58
+1759857661650,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-151,,true,,2969,507,1,1,null,88,1,58
+1759857661757,92,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-152,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,91,0,64
+1759857661756,92,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-152,,true,,2969,507,1,1,null,91,1,64
+1759857661861,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-153,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,61
+1759857661860,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-153,,true,,2969,507,1,1,null,88,1,61
+1759857661954,86,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-154,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,86,0,57
+1759857661952,86,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-154,,true,,2969,507,1,1,null,86,3,57
+1759857662064,84,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-155,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,84,0,58
+1759857662063,84,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-155,,true,,2969,507,1,1,null,84,2,58
+1759857662157,101,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-156,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,101,0,70
+1759857662155,101,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-156,,true,,2969,507,1,1,null,101,3,70
+1759857662266,93,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-157,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,93,0,67
+1759857662265,93,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-157,,true,,2969,507,2,2,null,93,1,67
+1759857662352,86,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-158,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,86,0,59
+1759857662351,86,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-158,,true,,2969,507,1,1,null,86,2,59
+1759857662451,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-159,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,61
+1759857662449,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-159,,true,,2969,507,1,1,null,87,3,61
+1759857662553,86,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-160,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,86,0,55
+1759857662551,86,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-160,,true,,2969,507,1,1,null,86,3,55
+1759857662652,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-161,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,59
+1759857662650,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-161,,true,,2969,507,1,1,null,87,2,59
+1759857662752,87,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-162,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,58
+1759857662751,87,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-162,,true,,2969,507,1,1,null,87,2,58
+1759857662860,89,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-163,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,89,0,60
+1759857662859,89,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-163,,true,,2969,507,1,1,null,89,2,60
+1759857662954,85,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-164,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,85,0,56
+1759857662953,85,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-164,,true,,2969,507,1,1,null,85,1,56
+1759857663064,84,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-165,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,84,0,57
+1759857663063,84,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-165,,true,,2969,507,1,1,null,84,2,57
+1759857663157,91,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-166,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,91,0,63
+1759857663156,91,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-166,,true,,2969,507,1,1,null,91,2,63
+1759857663263,85,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-167,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,85,0,57
+1759857663262,85,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-167,,true,,2969,507,1,1,null,85,2,57
+1759857663354,105,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-168,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,105,0,75
+1759857663353,105,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-168,,true,,2969,507,2,2,null,105,2,75
+1759857663453,95,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-169,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,95,0,57
+1759857663452,95,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-169,,true,,2969,507,1,1,null,95,2,57
+1759857663555,93,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-170,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,93,0,65
+1759857663553,93,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-170,,true,,2969,507,1,1,null,93,3,65
+1759857663653,85,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-171,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,85,0,58
+1759857663652,85,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-171,,true,,2969,507,1,1,null,85,2,58
+1759857663764,150,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-172,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,150,0,99
+1759857663763,150,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-172,,true,,2969,507,2,2,null,150,2,99
+1759857663853,95,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-173,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,95,0,65
+1759857663851,95,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-173,,true,,2969,507,1,1,null,95,3,65
+1759857663953,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-174,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,57
+1759857663952,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-174,,true,,2969,507,1,1,null,88,2,57
+1759857664067,102,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-175,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,101,0,68
+1759857664066,102,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-175,,true,,2969,507,2,2,null,101,2,68
+1759857664152,96,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-176,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,96,0,67
+1759857664150,96,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-176,,true,,2969,507,1,1,null,96,3,67
+1759857664254,86,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-177,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,86,0,56
+1759857664252,86,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-177,,true,,2969,507,1,1,null,86,2,56
+1759857664353,87,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-178,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,60
+1759857664352,87,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-178,,true,,2969,507,1,1,null,87,2,60
+1759857664453,100,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-179,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,100,0,63
+1759857664452,100,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-179,,true,,2969,507,1,1,null,100,2,63
+1759857664563,98,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-180,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,98,0,67
+1759857664562,98,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-180,,true,,2969,507,2,2,null,98,2,67
+1759857664657,103,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-181,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,103,0,68
+1759857664655,103,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-181,,true,,2969,507,1,1,null,103,3,68
+1759857664765,83,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-182,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,83,0,54
+1759857664765,83,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-182,,true,,2969,507,1,1,null,83,1,54
+1759857664855,83,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-183,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,83,0,55
+1759857664854,83,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-183,,true,,2969,507,1,1,null,83,2,55
+1759857664954,84,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-184,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,84,0,59
+1759857664952,84,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-184,,true,,2969,507,1,1,null,84,3,59
+1759857665078,90,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-185,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,90,0,61
+1759857665077,90,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-185,,true,,2969,507,2,2,null,90,2,61
+1759857665156,106,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-186,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,106,0,66
+1759857665156,106,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-186,,true,,2969,507,2,2,null,106,0,66
+1759857665250,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-187,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,59
+1759857665249,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-187,,true,,2969,507,1,1,null,88,1,59
+1759857665359,89,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-188,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,89,0,61
+1759857665359,89,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-188,,true,,2969,507,1,1,null,89,0,61
+1759857665454,84,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-189,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,84,0,57
+1759857665453,84,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-189,,true,,2969,507,1,1,null,84,1,57
+1759857665564,107,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-190,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,107,0,72
+1759857665563,107,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-190,,true,,2969,507,2,2,null,107,2,72
+1759857665656,94,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-191,text,true,,2969,507,2,2,https://paa.qualitin.com/index.aspx,94,0,64
+1759857665655,94,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-191,,true,,2969,507,2,2,null,94,2,64
+1759857665751,88,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-192,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,88,0,59
+1759857665750,88,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-192,,true,,2969,507,1,1,null,88,2,59
+1759857665857,90,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-193,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,90,0,61
+1759857665855,90,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-193,,true,,2969,507,1,1,null,90,3,61
+1759857665955,94,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-194,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,94,0,64
+1759857665955,94,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-194,,true,,2969,507,1,1,null,94,0,64
+1759857666056,91,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-195,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,91,0,63
+1759857666056,91,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-195,,true,,2969,507,1,1,null,91,0,63
+1759857666157,91,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-196,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,90,0,64
+1759857666156,91,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-196,,true,,2969,507,1,1,null,90,1,64
+1759857666251,97,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-197,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,96,0,68
+1759857666250,97,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-197,,true,,2969,507,1,1,null,96,1,68
+1759857666360,87,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-198,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,87,0,59
+1759857666359,87,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-198,,true,,2969,507,1,1,null,87,2,59
+1759857666454,94,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-199,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,94,0,65
+1759857666452,94,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-199,,true,,2969,507,1,1,null,94,3,65
+1759857666564,93,https://paa.qualitin.com/index.aspx,200,OK,Thread Group 1-200,text,true,,2969,507,1,1,https://paa.qualitin.com/index.aspx,93,0,67
+1759857666563,93,Teste Estresse,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-200,,true,,2969,507,1,1,null,93,2,67
